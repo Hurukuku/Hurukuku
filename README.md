@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python/HTML5/CSS3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me remigiusz.szymczak@protonmail.com
+- 📫 How to reach me remigiusz.szymczak@pm.me
 
 <!---
 Hurukuku/Hurukuku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
