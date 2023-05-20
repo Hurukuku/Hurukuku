@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hurukuku
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python/HTML5/CSS3
+- 🌱 I’m currently learning Python and React.js / Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me remigiusz.szymczak@pm.me
 
