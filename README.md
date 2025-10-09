@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Remik from Poland<br><br>- 🔭 I'm waiting for my university application results<br>- 📚 I'm currently learning Fastapi<br>- ⚡ In my free time I like to take photos</p>
+<p align="left">I'm Remik from Poland<br><br>- 🔭I'm 2nd year into bachelors in computer science<br>- 📚 I'm currently focusing on studying<br>- ⚡ In my free time I like to take photos</p>
 
 ###
 
