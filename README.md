@@ -25,6 +25,13 @@
 
 ###
 
+<h3 align="left">
+My projects: 
+</h3>
+<p>EasyAccess.pl(https://easyaccess.pl) - Strona dla polskiego dystrybutora produktów wspomagających dostępność od Mobi-Mat Deschamps, Napisana w nuxt.js.</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
